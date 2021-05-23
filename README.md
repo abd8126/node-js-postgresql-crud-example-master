@@ -1,8 +1,5 @@
 # Node.js PostgreSQL CRUD example with Express Rest APIs
 
-Full Article with implementation:
-> [Node.js PostgreSQL CRUD example with Express Rest APIs](https://bezkoder.com/node-express-sequelize-postgresql/)
-
 We will build Rest Apis that can create, retrieve, update, delete and find Tutorials by title.
 
 The following table shows overview of the Rest APIs that will be exported:
